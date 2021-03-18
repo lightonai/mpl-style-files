@@ -1,0 +1,9 @@
+# LightOn color scheme as defined in the charte graphique
+# LAPIS LAZULI  #20749C [darker blue]
+# BONDI BLUE  #0494B4 [lighter blue]
+# LIGHT SEA GREEN  #1DC9AC [turquoise]
+# JUNE BUD  #B5D548 [apple green]
+# VIVID GAMBOGE  #FF9A00 [orangey yellow]
+
+# Set color cycle
+axes.prop_cycle : cycler('color', ['20749C', '0494B4', '1DC9AC', 'B5D548', 'FF9A00'])
